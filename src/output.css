@@ -553,3 +553,237 @@ video {
 [hidden]:where(:not([hidden="until-found"])) {
   display: none;
 }
+
+.mt-\[\] {
+  margin-top: ;
+}
+
+.flex {
+  display: flex;
+}
+
+.h-\[100vh\] {
+  height: 100vh;
+}
+
+.h-\[120vh\] {
+  height: 120vh;
+}
+
+.h-\[150vh\] {
+  height: 150vh;
+}
+
+.w-\[\] {
+  width: ;
+}
+
+.w-\[400px\] {
+  width: 400px;
+}
+
+.w-\[500px\] {
+  width: 500px;
+}
+
+.w-\[550px\] {
+  width: 550px;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.gap-\[\] {
+  gap: ;
+}
+
+.gap-\[20px\] {
+  gap: 20px;
+}
+
+.gap-\[30px\] {
+  gap: 30px;
+}
+
+.gap-\[50px\] {
+  gap: 50px;
+}
+
+.bg-\[\] {
+  background-color: ;
+}
+
+.bg-\[u\] {
+  background-color: u;
+}
+
+.bg-\[url\] {
+  background-color: url;
+}
+
+.bg-\[url\(\)\] {
+  background-image: url();
+}
+
+.bg-\[url\(\.\)\] {
+  background-image: url(.);
+}
+
+.bg-\[url\(\.\/\)\] {
+  background-image: url(./);
+}
+
+.bg-\[url\(\.\/IMAGE\)\] {
+  background-image: url(./IMAGE);
+}
+
+.bg-\[url\(\.\/IMAGE\.sbg\)\] {
+  background-image: url(./IMAGE.sbg);
+}
+
+.bg-\[url\(\.\/IMAGE\.s\)\] {
+  background-image: url(./IMAGE.s);
+}
+
+.bg-\[url\(\.\/IMAGE\.svg\)\] {
+  background-image: url(./IMAGE.svg);
+}
+
+.p-\[\] {
+  padding: ;
+}
+
+.p-\[15px\] {
+  padding: 15px;
+}
+
+.p-\[20px\] {
+  padding: 20px;
+}
+
+.p-\[30px\] {
+  padding: 30px;
+}
+
+.p-\[50px\] {
+  padding: 50px;
+}
+
+.pl-\[15px\] {
+  padding-left: 15px;
+}
+
+.pr-\[\] {
+  padding-right: ;
+}
+
+.pr-\[15px\] {
+  padding-right: 15px;
+}
+
+.pl-\[\] {
+  padding-left: ;
+}
+
+.pt-\[\] {
+  padding-top: ;
+}
+
+.pt-\[70px\] {
+  padding-top: 70px;
+}
+
+.pt-\[150px\] {
+  padding-top: 150px;
+}
+
+.pt-\[10px\] {
+  padding-top: 10px;
+}
+
+.pt-\[170px\] {
+  padding-top: 170px;
+}
+
+.pt-\[120px\] {
+  padding-top: 120px;
+}
+
+.pt-\[200px\] {
+  padding-top: 200px;
+}
+
+.font-serif {
+  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+.font-mono {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+.text-\[20px\] {
+  font-size: 20px;
+}
+
+.text-\[70px\] {
+  font-size: 70px;
+}
+
+.text-\[30px\] {
+  font-size: 30px;
+}
+
+.text-\[50px\] {
+  font-size: 50px;
+}
+
+.text-\[0px\] {
+  font-size: 0px;
+}
+
+.font-thin {
+  font-weight: 100;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.text-\[\] {
+  color: ;
+}
+
+.text-\[green\] {
+  --tw-text-opacity: 1;
+  color: rgb(0 128 0 / var(--tw-text-opacity, 1));
+}
+
+.text-\[\#6df56d\] {
+  --tw-text-opacity: 1;
+  color: rgb(109 245 109 / var(--tw-text-opacity, 1));
+}
+
+.text-\[g\] {
+  color: g;
+}
+
+.text-\[\#90fb90\] {
+  --tw-text-opacity: 1;
+  color: rgb(144 251 144 / var(--tw-text-opacity, 1));
+}
+
+.text-\[\#418f41\] {
+  --tw-text-opacity: 1;
+  color: rgb(65 143 65 / var(--tw-text-opacity, 1));
+}
+
+.text-\[\#113e11\] {
+  --tw-text-opacity: 1;
+  color: rgb(17 62 17 / var(--tw-text-opacity, 1));
+}
+
+.text-\[\#48bb48\] {
+  --tw-text-opacity: 1;
+  color: rgb(72 187 72 / var(--tw-text-opacity, 1));
+}
